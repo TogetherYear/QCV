@@ -1,0 +1,5 @@
+C:/Together/C++/QCV/build/CMakeFiles/Fractures.dir
+C:/Together/C++/QCV/build/CMakeFiles/edit_cache.dir
+C:/Together/C++/QCV/build/CMakeFiles/rebuild_cache.dir
+C:/Together/C++/QCV/build/CMakeFiles/Fractures_autogen_timestamp_deps.dir
+C:/Together/C++/QCV/build/CMakeFiles/Fractures_autogen.dir
